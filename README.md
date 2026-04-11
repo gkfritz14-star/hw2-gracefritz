@@ -11,3 +11,7 @@ This project automates the generation of sales follow-up emails from raw post-me
 **Value:**
 - Saves time for salespeople managing high volumes of post-call follow-ups
 - Ensures consistent tone and quality across the sales team
+
+## Walkthrough Video
+
+https://youtu.be/OIqQNKwGyXw

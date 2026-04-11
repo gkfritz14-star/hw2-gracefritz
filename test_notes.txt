@@ -1,1 +1,6 @@
-Called John. Interested in Structured Research SMA. Requested to have the sales kit sent to him. Will follow up next week.
+Met with Sarah Chen, VP of Operations at Meridian Logistics.
+30-min intro call. She's evaluating tools to reduce manual reporting time for her team of 12.
+Current stack: Excel, some Salesforce. Pain point: weekly report takes ~4 hours to compile.
+Interested in our dashboard integration. Wants to see a demo with their actual data.
+Budget not confirmed yet — she needs to loop in her director.
+Follow-up: send case study from similar logistics client, schedule demo for week of April 21.
